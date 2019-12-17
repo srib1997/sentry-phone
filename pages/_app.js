@@ -4,7 +4,7 @@ import * as Sentry from '@sentry/node'
 
 Sentry.init({
   // Replace with your project's Sentry DSN
-  dsn: 'https://00000000000000000000000000000000@sentry.io/1111111',
+  dsn: 'https://630939cd248e449eaab8bae3890df87d@sentry.io/1857672',
 })
 
 class MyApp extends App {
